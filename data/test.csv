@@ -1,0 +1,801 @@
+work_year,experience_level,employment_type,job_title,employee_residence,remote_ratio,company_location,company_size,0
+2022-01-01,MI,FT,Data Engineer,GB,0.0,GB,M,
+2022-01-01,SE,FT,ETL Developer,US,100.0,US,M,
+2022-01-01,SE,FT,Data Analyst,US,0.0,US,M,
+2022-01-01,EX,FT,Machine Learning Scientist,US,100.0,US,S,
+2022-01-01,SE,FT,Data Engineer,US,100.0,US,M,
+2022-01-01,MI,FT,Data Engineer,ES,100.0,ES,M,
+2022-01-01,SE,FT,Data Analyst,US,100.0,US,M,
+2021-01-01,MI,FT,Data Scientist,RS,100.0,DE,S,
+2022-01-01,SE,FT,Data Scientist,US,100.0,US,M,
+2022-01-01,SE,FT,Data Scientist,US,100.0,US,M,
+2022-01-01,SE,FT,Data Scientist,US,0.0,US,M,
+2022-01-01,MI,FT,Data Engineer,DE,50.0,DE,S,
+2021-01-01,EN,PT,AI Scientist,BR,100.0,US,S,
+2022-01-01,SE,FT,Machine Learning Engineer,US,0.0,US,M,
+2022-01-01,SE,FT,Data Scientist,US,0.0,US,M,
+2022-01-01,SE,FT,Data Scientist,US,0.0,US,M,
+2022-01-01,SE,FT,Data Scientist,US,100.0,US,M,
+2022-01-01,SE,FT,Data Engineer,US,100.0,US,M,
+2022-01-01,EN,FT,Data Scientist,US,0.0,US,M,
+2022-01-01,SE,FT,Machine Learning Engineer,US,0.0,US,M,
+2022-01-01,SE,FT,Data Engineer,US,0.0,US,M,
+2022-01-01,SE,FT,Data Engineer,US,0.0,US,M,
+2022-01-01,SE,FT,Data Scientist,US,100.0,US,L,
+2022-01-01,SE,FT,Data Scientist,US,100.0,US,M,
+2022-01-01,SE,FT,Data Scientist,US,100.0,US,M,
+2022-01-01,SE,FT,Data Engineer,US,0.0,US,M,
+2021-01-01,SE,FT,Finance Data Analyst,GB,50.0,GB,L,
+2022-01-01,SE,FT,Data Engineer,US,0.0,US,M,
+2021-01-01,SE,FT,Principal Data Analyst,US,100.0,US,M,
+2022-01-01,SE,FT,Data Engineer,US,0.0,US,M,
+2021-01-01,SE,FT,Principal Data Scientist,US,0.0,US,L,
+2022-01-01,MI,FT,ML Engineer,US,100.0,US,L,
+2022-01-01,SE,FT,Machine Learning Engineer,US,100.0,US,M,
+2022-01-01,MI,FT,Data Engineer,BR,100.0,BR,M,
+2021-01-01,MI,FT,Data Scientist,DE,50.0,DE,L,
+2022-01-01,SE,FT,Data Scientist,US,0.0,US,M,
+2021-01-01,SE,FT,Machine Learning Engineer,IN,0.0,IN,L,
+2022-01-01,EX,FT,Head of Data Science,US,100.0,US,M,
+2022-01-01,MI,FT,Data Analytics Engineer,US,100.0,US,L,
+2022-01-01,MI,FT,Analytics Engineer,BR,100.0,BR,M,
+2020-01-01,SE,FT,Data Engineer,US,100.0,US,L,
+2022-01-01,MI,FT,Data Engineer,FR,100.0,FR,M,
+2022-01-01,SE,FT,Data Engineer,US,100.0,US,M,
+2022-01-01,SE,FT,Data Scientist,US,100.0,US,M,
+2022-01-01,SE,FT,Data Scientist,US,0.0,US,M,
+2022-01-01,MI,FT,Data Engineer,US,0.0,US,M,
+2020-01-01,MI,FT,Data Analyst,FR,50.0,FR,L,
+2022-01-01,SE,FT,Analytics Engineer,US,100.0,US,M,
+2022-01-01,SE,FT,Data Scientist,US,0.0,US,M,
+2021-01-01,SE,FT,Head of Data,SI,100.0,SI,L,
+2022-01-01,SE,FT,Data Scientist,US,0.0,US,M,
+2022-01-01,SE,FT,Data Scientist,US,100.0,US,M,
+2022-01-01,SE,FT,Data Scientist,US,100.0,US,M,
+2022-01-01,SE,FT,Data Scientist,US,100.0,US,M,
+2022-01-01,SE,FT,Data Scientist,US,100.0,US,S,
+2022-01-01,EX,FT,Data Engineer,US,100.0,US,M,
+2021-01-01,MI,FT,Data Analyst,US,100.0,US,L,
+2021-01-01,MI,FT,Data Scientist,ES,100.0,ES,M,
+2022-01-01,MI,FT,Data Scientist,US,100.0,US,L,
+2022-01-01,SE,FT,Data Scientist,US,100.0,US,M,
+2021-01-01,EX,FT,Director of Data Science,US,0.0,US,L,
+2022-01-01,EN,FT,Data Scientist,IN,100.0,IN,M,
+2022-01-01,SE,FT,Data Scientist,US,100.0,US,M,
+2022-01-01,SE,FT,Data Scientist,US,0.0,US,M,
+2022-01-01,MI,FT,Data Engineer,GB,0.0,GB,M,
+2022-01-01,EN,FT,Machine Learning Engineer,US,0.0,US,L,
+2020-01-01,MI,FT,Data Scientist,US,100.0,US,M,
+2021-01-01,EN,PT,Computer Vision Software Engineer,DK,50.0,DK,L,
+2022-01-01,EN,FT,Data Analyst,CR,50.0,US,M,
+2022-01-01,MI,FT,Data Analyst,US,0.0,US,M,
+2021-01-01,SE,FT,Data Scientist,FR,50.0,FR,L,
+2022-01-01,SE,FT,Data Scientist,US,0.0,US,M,
+2022-01-01,SE,FT,Data Engineer,US,100.0,US,M,
+2022-01-01,SE,FT,Data Architect,US,100.0,US,M,
+2022-01-01,MI,FT,Data Scientist,TR,50.0,TR,M,
+2022-01-01,SE,FT,Data Scientist,US,100.0,US,M,
+2022-01-01,SE,FT,Data Operations Analyst,US,0.0,US,M,
+2021-01-01,EN,FT,Machine Learning Developer,TH,100.0,TH,L,
+2022-01-01,EX,FT,Machine Learning Scientist,US,100.0,US,S,
+2022-01-01,MI,FT,Data Analyst,GB,0.0,GB,M,
+2022-01-01,SE,FT,Analytics Engineer,US,0.0,US,M,
+2022-01-01,SE,FT,Data Scientist,US,100.0,US,M,
+2022-01-01,SE,FT,Analytics Engineer,US,0.0,US,M,
+2022-01-01,SE,FT,Data Scientist,US,100.0,US,M,
+2022-01-01,SE,FT,Data Science Manager,US,100.0,US,M,
+2022-01-01,SE,FT,Applied Scientist,US,100.0,US,M,
+2022-01-01,SE,FT,Data Engineer,US,100.0,US,M,
+2022-01-01,SE,FT,Data Engineer,US,0.0,US,M,
+2022-01-01,SE,FT,Data Analyst,US,100.0,US,M,
+2022-01-01,EN,FT,Data Analyst,FR,100.0,IN,L,
+2021-01-01,EN,FT,Machine Learning Research Engineer,IN,100.0,IN,M,
+2022-01-01,SE,FT,Data Engineer,US,100.0,US,M,
+2022-01-01,EN,FT,AI Scientist,US,100.0,US,M,
+2022-01-01,SE,FT,Data Scientist,US,100.0,US,L,
+2022-01-01,SE,FT,Machine Learning Engineer,US,100.0,US,M,
+2021-01-01,SE,FT,Principal Data Scientist,US,100.0,US,L,
+2022-01-01,SE,FT,Machine Learning Developer,CA,100.0,CA,M,
+2021-01-01,MI,FT,Data Scientist,DE,50.0,DE,L,
+2022-01-01,SE,FT,Data Scientist,US,100.0,US,M,
+2022-01-01,SE,FT,Data Scientist,US,100.0,US,M,
+2022-01-01,MI,FT,Data Engineer,GB,0.0,GB,M,
+2020-01-01,MI,FT,Lead Data Engineer,PT,100.0,US,M,
+2022-01-01,EX,FT,Analytics Engineer,US,100.0,US,M,
+2022-01-01,MI,FT,Data Science Manager,US,100.0,US,M,
+2022-01-01,SE,FT,Data Engineer,US,0.0,US,M,
+2022-01-01,SE,FT,Data Scientist,US,100.0,US,M,
+2022-01-01,SE,FT,Machine Learning Engineer,US,100.0,US,M,
+2022-01-01,MI,FT,Data Analyst,US,0.0,US,M,
+2022-01-01,SE,FT,Machine Learning Manager,US,100.0,US,M,
+2021-01-01,SE,FT,Principal Data Engineer,US,100.0,US,L,
+2021-01-01,MI,FT,Research Scientist,FR,50.0,FR,S,
+2022-01-01,SE,FT,Data Engineer,US,0.0,US,M,
+2022-01-01,SE,FT,Data Engineer,PT,0.0,PT,M,
+2022-01-01,SE,FT,Data Scientist,US,0.0,US,M,
+2022-01-01,SE,FT,Data Analyst,US,100.0,US,M,
+2021-01-01,EX,FT,Director of Data Science,IT,100.0,PL,L,
+2021-01-01,MI,FT,BI Data Analyst,HU,50.0,US,L,
+2022-01-01,SE,FT,Data Scientist,BR,100.0,US,M,
+2022-01-01,SE,FT,Data Engineer,US,100.0,US,M,
+2021-01-01,MI,FT,Data Scientist,US,50.0,US,L,
+2022-01-01,SE,FT,Data Analyst,US,100.0,US,M,
+2022-01-01,SE,FT,Data Architect,US,100.0,US,M,
+2021-01-01,SE,FT,Data Science Manager,US,100.0,US,L,
+2022-01-01,MI,FT,Data Scientist,GB,0.0,GB,M,
+2022-01-01,SE,FT,Data Analyst,US,100.0,US,M,
+2022-01-01,SE,FT,Data Engineer,US,100.0,US,M,
+2022-01-01,MI,FT,Data Analyst,US,100.0,US,M,
+2022-01-01,EN,FT,Data Engineer,PK,100.0,DE,M,
+2021-01-01,EX,FT,Head of Data,US,100.0,US,L,
+2022-01-01,SE,FT,Data Scientist,US,100.0,US,M,
+2022-01-01,SE,FT,Data Engineer,US,100.0,US,M,
+2022-01-01,SE,FT,Data Analyst,US,0.0,US,M,
+2022-01-01,MI,FT,Analytics Engineer,US,100.0,US,M,
+2021-01-01,SE,FT,Lead Data Engineer,GB,100.0,GB,S,
+2022-01-01,SE,FT,Data Engineer,US,0.0,US,M,
+2022-01-01,SE,FT,Data Analyst,US,0.0,US,M,
+2022-01-01,SE,FT,Research Scientist,US,50.0,US,L,
+2022-01-01,SE,FT,Data Engineer,US,0.0,US,M,
+2022-01-01,MI,FT,Data Analyst,US,100.0,US,M,
+2021-01-01,MI,FT,Data Scientist,IN,100.0,US,S,
+2022-01-01,SE,FT,Data Operations Analyst,US,100.0,US,M,
+2022-01-01,EN,FT,Data Scientist,US,0.0,US,L,
+2022-01-01,MI,FT,Data Analyst,US,0.0,US,M,
+2022-01-01,MI,FT,Business Data Analyst,IN,100.0,IN,M,
+2022-01-01,EX,FT,Head of Data,US,0.0,US,M,
+2022-01-01,MI,FT,Business Data Analyst,CA,50.0,CA,L,
+2022-01-01,SE,FT,Data Engineer,US,0.0,US,M,
+2021-01-01,SE,FT,Data Engineering Manager,US,100.0,US,L,
+2022-01-01,SE,FT,Data Engineer,US,100.0,US,L,
+2022-01-01,SE,FT,Analytics Engineer,US,0.0,US,M,
+2022-01-01,SE,FT,Data Analyst,US,0.0,US,M,
+2021-01-01,EN,FT,Data Analyst,US,100.0,US,M,
+2022-01-01,SE,FT,Data Engineer,US,0.0,US,M,
+2022-01-01,SE,FT,Data Analyst,US,100.0,US,M,
+2022-01-01,SE,FT,Data Engineer,US,100.0,US,M,
+2022-01-01,SE,FT,Data Scientist,US,0.0,US,M,
+2021-01-01,MI,FT,Data Engineer,US,100.0,US,L,
+2021-01-01,SE,FT,Machine Learning Engineer,US,50.0,US,L,
+2022-01-01,SE,FT,Data Scientist,US,100.0,US,L,
+2022-01-01,SE,FT,Business Data Analyst,US,100.0,US,L,
+2022-01-01,SE,FT,Data Engineer,US,100.0,US,M,
+2021-01-01,SE,FT,Data Engineer,US,0.0,US,M,
+2022-01-01,SE,FT,Data Engineer,US,100.0,US,M,
+2022-01-01,SE,FT,Data Engineer,US,0.0,US,M,
+2022-01-01,SE,FT,Data Engineer,US,0.0,US,L,
+2021-01-01,EN,FT,Data Engineer,US,100.0,US,L,
+2022-01-01,EN,FT,Applied Data Scientist,AT,50.0,AT,M,
+2022-01-01,EN,FT,ML Engineer,PT,100.0,PT,L,
+2022-01-01,EN,FT,Computer Vision Software Engineer,AU,100.0,AU,S,
+2022-01-01,MI,FT,Data Scientist,BR,100.0,BR,M,
+2022-01-01,SE,FT,Data Engineer,US,100.0,US,M,
+2021-01-01,SE,FT,Data Analytics Manager,US,100.0,US,M,
+2022-01-01,SE,FT,Data Scientist,US,0.0,US,M,
+2021-01-01,SE,FT,Computer Vision Engineer,BR,0.0,BR,M,
+2022-01-01,SE,FT,Data Scientist,US,100.0,US,M,
+2022-01-01,EN,FT,Data Scientist,BE,100.0,BE,L,
+2022-01-01,SE,FT,Principal Data Scientist,DE,100.0,DE,M,
+2022-01-01,MI,FT,Data Scientist,US,0.0,US,M,
+2022-01-01,SE,FT,Data Engineer,US,100.0,US,M,
+2022-01-01,MI,FT,Data Engineer,US,0.0,US,M,
+2022-01-01,EN,FT,Research Scientist,US,100.0,US,L,
+2022-01-01,MI,FT,Machine Learning Scientist,US,50.0,US,M,
+2022-01-01,SE,FT,Data Engineer,US,100.0,US,M,
+2022-01-01,SE,FT,Data Analyst,US,0.0,US,M,
+2021-01-01,SE,FT,Data Engineer,RO,50.0,GB,S,
+2020-01-01,MI,FT,Data Scientist,US,100.0,US,L,
+2021-01-01,MI,FT,Data Analytics Engineer,US,100.0,US,L,
+2021-01-01,MI,FT,Computer Vision Software Engineer,DE,100.0,US,S,
+2022-01-01,MI,FT,Data Scientist,US,100.0,US,M,
+2022-01-01,SE,FT,Data Analyst,US,100.0,US,M,
+2022-01-01,MI,FT,Data Engineer,GB,100.0,GB,M,
+2021-01-01,MI,FT,Data Architect,US,100.0,US,L,
+2022-01-01,SE,FT,Data Scientist,US,100.0,US,M,
+2022-01-01,SE,FT,Data Engineer,US,0.0,US,M,
+2022-01-01,SE,FT,Data Scientist,US,0.0,US,L,
+2022-01-01,SE,FT,Data Engineer,US,0.0,US,M,
+2022-01-01,SE,FT,Data Architect,US,0.0,US,M,
+2022-01-01,SE,FT,Data Analyst,US,100.0,US,M,
+2022-01-01,MI,FT,Data Scientist,CA,100.0,CA,M,
+2022-01-01,SE,FT,Data Analyst,US,100.0,US,M,
+2022-01-01,SE,FT,Data Scientist,US,0.0,US,M,
+2022-01-01,SE,FT,Data Architect,US,100.0,US,M,
+2022-01-01,SE,FT,Data Engineer,US,100.0,US,M,
+2022-01-01,SE,FT,Data Scientist,US,0.0,US,L,
+2022-01-01,SE,FT,Data Engineer,US,0.0,US,M,
+2021-01-01,SE,FT,Data Science Manager,US,100.0,FR,L,
+2022-01-01,SE,FT,Data Science Manager,US,100.0,US,L,
+2021-01-01,MI,FT,Data Scientist,NG,100.0,NG,L,
+2022-01-01,SE,FT,Machine Learning Engineer,US,100.0,US,M,
+2022-01-01,MI,FT,BI Analyst,BR,100.0,BR,M,
+2022-01-01,SE,FT,Data Scientist,US,0.0,US,M,
+2022-01-01,SE,FT,Data Analyst,US,0.0,US,M,
+2022-01-01,SE,FT,Data Engineer,US,0.0,US,M,
+2022-01-01,SE,FT,Data Engineer,US,0.0,US,L,
+2020-01-01,MI,FT,Machine Learning Infrastructure Engineer,PT,0.0,PT,M,
+2022-01-01,SE,FT,Data Scientist,US,100.0,US,L,
+2022-01-01,SE,FT,Data Analyst,ES,0.0,ES,M,
+2022-01-01,SE,FT,Data Engineer,US,0.0,US,M,
+2022-01-01,SE,FT,Head of Data,MY,100.0,US,M,
+2022-01-01,SE,FT,Data Scientist,US,100.0,US,M,
+2022-01-01,MI,FT,Data Operations Engineer,US,100.0,US,M,
+2022-01-01,EN,FT,Data Scientist,US,100.0,US,M,
+2021-01-01,SE,FT,Research Scientist,PT,50.0,PT,L,
+2022-01-01,SE,FT,Data Analyst,US,100.0,US,M,
+2022-01-01,MI,FT,Analytics Engineer,US,0.0,US,M,
+2022-01-01,SE,FT,Data Scientist,US,0.0,US,L,
+2021-01-01,MI,FL,Machine Learning Scientist,PK,50.0,PK,M,
+2022-01-01,SE,FT,Data Architect,CA,100.0,CA,M,
+2022-01-01,SE,FT,Data Engineer,US,100.0,US,M,
+2022-01-01,MI,FT,Data Engineer,GR,100.0,GR,M,
+2022-01-01,SE,FT,Data Engineer,US,0.0,US,M,
+2022-01-01,SE,FT,Data Engineer,US,100.0,US,M,
+2022-01-01,SE,FT,Data Analyst,US,100.0,US,M,
+2021-01-01,SE,FT,Director of Data Engineering,US,100.0,US,L,
+2022-01-01,EN,FT,Data Analyst,US,100.0,US,S,
+2022-01-01,MI,FT,ML Engineer,US,100.0,US,M,
+2022-01-01,SE,FT,Lead Machine Learning Engineer,IN,50.0,IN,L,
+2022-01-01,SE,FT,Data Engineer,US,100.0,US,L,
+2022-01-01,SE,FT,Data Engineer,US,0.0,US,M,
+2022-01-01,SE,FT,Data Scientist,US,100.0,US,M,
+2022-01-01,SE,FT,Data Scientist,US,100.0,US,M,
+2022-01-01,SE,FT,Data Analyst,US,0.0,US,M,
+2022-01-01,SE,FT,Data Analyst,US,0.0,US,M,
+2022-01-01,SE,FT,Data Engineer,US,0.0,US,M,
+2022-01-01,SE,FT,Data Analyst,US,0.0,US,M,
+2022-01-01,MI,FT,Data Scientist,RU,100.0,US,S,
+2021-01-01,SE,FT,Data Engineer,GB,50.0,GB,L,
+2022-01-01,MI,FT,Research Scientist,US,50.0,US,L,
+2022-01-01,SE,FT,Data Engineer,US,100.0,US,M,
+2022-01-01,MI,FT,Data Scientist,GB,50.0,GB,M,
+2021-01-01,SE,CT,Staff Data Scientist,US,100.0,US,M,
+2021-01-01,SE,FT,Data Engineer,US,100.0,US,L,
+2021-01-01,MI,FT,Data Architect,US,100.0,US,L,
+2022-01-01,SE,FT,Data Engineer,US,100.0,US,M,
+2022-01-01,SE,FT,Data Scientist,US,100.0,US,M,
+2022-01-01,EN,FT,BI Analyst,US,50.0,US,L,
+2021-01-01,SE,FT,Data Engineering Manager,US,100.0,US,L,
+2022-01-01,MI,FT,Data Analyst,US,0.0,US,M,
+2022-01-01,SE,FT,Data Engineer,US,0.0,US,M,
+2022-01-01,SE,FT,Data Engineer,US,0.0,US,M,
+2020-01-01,EN,FT,Big Data Engineer,US,100.0,US,L,
+2022-01-01,SE,FT,Data Engineer,US,100.0,US,M,
+2022-01-01,EN,FT,Machine Learning Engineer,GB,100.0,GB,L,
+2022-01-01,SE,FT,Data Analyst,US,100.0,US,M,
+2022-01-01,SE,FT,Data Scientist,US,100.0,US,M,
+2022-01-01,SE,FT,Applied Scientist,US,100.0,US,M,
+2022-01-01,SE,FT,Data Analyst,US,100.0,US,M,
+2022-01-01,SE,FT,Data Scientist,US,100.0,US,M,
+2022-01-01,MI,FT,Data Engineer,GB,100.0,GB,M,
+2021-01-01,SE,FT,Data Scientist,US,100.0,US,L,
+2022-01-01,EN,FT,Computer Vision Engineer,PT,100.0,LU,M,
+2020-01-01,EN,FT,Data Scientist,FR,0.0,FR,S,
+2020-01-01,MI,FT,Data Engineer,GB,50.0,GB,L,
+2022-01-01,SE,FT,Data Analyst,US,100.0,US,M,
+2022-01-01,SE,FT,Data Scientist,US,100.0,US,M,
+2022-01-01,SE,FT,Data Analyst,US,100.0,US,M,
+2022-01-01,SE,FT,Applied Data Scientist,US,100.0,US,L,
+2022-01-01,SE,FT,Data Analyst,US,100.0,US,M,
+2022-01-01,MI,FT,Lead Data Scientist,GB,50.0,GB,S,
+2022-01-01,MI,FT,Data Analyst,GB,100.0,GB,M,
+2020-01-01,EN,FT,Data Analyst,US,100.0,US,L,
+2022-01-01,SE,FT,ML Engineer,US,100.0,US,M,
+2022-01-01,SE,FT,Data Engineer,US,100.0,US,M,
+2021-01-01,MI,FL,Data Engineer,IT,0.0,US,L,
+2022-01-01,SE,FT,Data Scientist,US,100.0,US,M,
+2022-01-01,SE,FT,Data Scientist,US,0.0,US,M,
+2020-01-01,MI,FT,Data Science Consultant,US,100.0,US,L,
+2022-01-01,MI,FT,Data Engineer,GB,100.0,GB,M,
+2022-01-01,SE,FT,Data Specialist,US,100.0,US,L,
+2022-01-01,SE,FT,Data Science Consultant,US,0.0,US,M,
+2022-01-01,SE,FT,Data Scientist,US,0.0,US,M,
+2021-01-01,MI,FT,Data Scientist,US,50.0,US,L,
+2022-01-01,SE,FT,Data Analyst,US,100.0,US,M,
+2021-01-01,EN,FT,Data Science Consultant,DE,50.0,DE,L,
+2022-01-01,SE,FT,Data Analyst,US,100.0,US,M,
+2021-01-01,EN,FT,Machine Learning Engineer,DE,50.0,DE,M,
+2022-01-01,SE,FT,Data Analyst,US,0.0,US,M,
+2022-01-01,SE,FT,Data Engineer,GB,0.0,GB,M,
+2022-01-01,SE,FT,Data Scientist,US,0.0,US,M,
+2022-01-01,SE,FT,Data Analyst,US,100.0,US,M,
+2022-01-01,SE,FT,Data Specialist,US,100.0,US,L,
+2022-01-01,SE,FT,Data Engineer,US,100.0,US,M,
+2021-01-01,EN,FT,Applied Data Scientist,GB,0.0,GB,L,
+2022-01-01,SE,FT,Machine Learning Engineer,US,100.0,US,M,
+2022-01-01,SE,FT,Data Architect,US,100.0,US,M,
+2022-01-01,SE,FT,Data Engineer,US,0.0,US,M,
+2020-01-01,EN,FT,Data Analyst,PT,100.0,PT,M,
+2022-01-01,SE,FT,Lead Machine Learning Engineer,PT,100.0,PT,L,
+2022-01-01,SE,FT,Data Engineer,US,0.0,US,M,
+2022-01-01,SE,FT,Data Architect,US,100.0,US,M,
+2022-01-01,SE,FT,Data Scientist,US,100.0,US,M,
+2022-01-01,SE,FT,Analytics Engineer,US,100.0,US,M,
+2022-01-01,SE,FT,Data Scientist,US,0.0,US,M,
+2021-01-01,EN,FT,Machine Learning Research Engineer,FR,50.0,FR,M,
+2022-01-01,MI,FT,AI Scientist,IN,100.0,US,L,
+2022-01-01,MI,FT,Machine Learning Engineer,FR,100.0,DE,M,
+2022-01-01,MI,FT,Business Data Analyst,US,100.0,US,L,
+2020-01-01,EN,FT,Data Analyst,NG,100.0,NG,S,
+2020-01-01,MI,FT,Product Data Analyst,HN,0.0,HN,S,
+2022-01-01,MI,FT,Data Engineer,US,100.0,US,M,
+2021-01-01,EN,FT,Data Analyst,US,100.0,US,S,
+2021-01-01,SE,FT,Data Analytics Manager,US,0.0,US,L,
+2022-01-01,SE,FT,Data Scientist,US,100.0,US,M,
+2021-01-01,EN,FT,Data Scientist,US,100.0,US,M,
+2022-01-01,SE,FT,Data Scientist,US,100.0,US,M,
+2022-01-01,EN,FT,AI Scientist,IN,0.0,IN,S,
+2022-01-01,EN,FT,Machine Learning Engineer,US,50.0,US,L,
+2021-01-01,SE,FT,Marketing Data Analyst,GR,100.0,DK,L,
+2022-01-01,MI,FT,Data Scientist,US,100.0,US,M,
+2021-01-01,MI,FT,Data Engineer,US,100.0,US,L,
+2022-01-01,MI,FL,Applied Machine Learning Scientist,IN,100.0,IN,S,
+2022-01-01,EN,FT,Data Engineer,US,100.0,US,L,
+2022-01-01,SE,FT,Data Scientist,US,100.0,US,L,
+2021-01-01,SE,FT,Cloud Data Architect,US,50.0,US,L,
+2022-01-01,SE,FT,Data Analyst,US,100.0,US,M,
+2022-01-01,MI,FT,Applied Machine Learning Scientist,US,50.0,US,M,
+2022-01-01,SE,FT,Data Scientist,US,100.0,US,M,
+2022-01-01,SE,FT,Data Scientist,ES,0.0,ES,M,
+2022-01-01,MI,FT,Data Analyst,US,100.0,US,M,
+2022-01-01,SE,FT,Data Analyst,ES,0.0,ES,M,
+2022-01-01,SE,FT,Data Engineer,US,100.0,US,M,
+2022-01-01,SE,FT,Data Engineer,US,100.0,US,M,
+2022-01-01,SE,FT,Data Analyst,US,100.0,US,M,
+2022-01-01,EX,FT,Data Science Manager,US,0.0,US,M,
+2022-01-01,SE,FT,Data Engineer,US,0.0,US,L,
+2021-01-01,EN,FT,Data Analyst,US,100.0,US,S,
+2022-01-01,MI,FT,Data Scientist,US,100.0,US,M,
+2022-01-01,SE,FT,Data Analyst,ES,0.0,ES,M,
+2022-01-01,SE,FT,Data Analyst,US,0.0,US,M,
+2022-01-01,SE,FT,Machine Learning Engineer,US,100.0,US,M,
+2022-01-01,MI,FT,Data Scientist,US,100.0,US,M,
+2022-01-01,SE,FT,Product Data Scientist,IN,100.0,SG,L,
+2022-01-01,SE,FT,Data Scientist,US,100.0,US,M,
+2022-01-01,MI,FT,Data Analyst,GR,100.0,GR,M,
+2022-01-01,MI,FT,Data Analyst,ES,100.0,ES,M,
+2022-01-01,MI,FT,Machine Learning Engineer,US,0.0,US,M,
+2021-01-01,SE,FT,Machine Learning Scientist,US,100.0,CA,L,
+2021-01-01,MI,FT,Data Engineer,GB,100.0,GB,L,
+2020-01-01,SE,FT,Big Data Engineer,GB,50.0,GB,M,
+2022-01-01,SE,FT,Data Engineer,US,0.0,US,M,
+2021-01-01,EN,FT,Big Data Engineer,IN,100.0,IN,L,
+2022-01-01,SE,FT,Data Analyst,US,100.0,US,M,
+2022-01-01,SE,FT,Data Engineer,US,0.0,US,M,
+2021-01-01,MI,FT,Machine Learning Engineer,SI,50.0,SI,L,
+2021-01-01,EX,FT,Director of Data Science,DE,0.0,DE,L,
+2022-01-01,SE,FT,Data Engineer,PR,100.0,PR,M,
+2022-01-01,SE,FT,Analytics Engineer,US,100.0,US,M,
+2022-01-01,EN,PT,Data Scientist,DO,100.0,FR,M,
+2021-01-01,MI,FT,Data Scientist,DE,50.0,AT,M,
+2021-01-01,MI,FT,Data Scientist,US,100.0,US,M,
+2022-01-01,SE,FT,ETL Developer,US,0.0,US,M,
+2020-01-01,SE,FT,Principal Data Scientist,DE,100.0,DE,M,
+2021-01-01,SE,FT,Data Scientist,FR,50.0,FR,M,
+2022-01-01,SE,FT,Data Engineer,US,0.0,US,M,
+2022-01-01,SE,FT,Data Analyst,US,100.0,US,M,
+2022-01-01,SE,FT,Data Scientist,US,100.0,US,M,
+2022-01-01,SE,FT,Data Analyst,US,100.0,US,M,
+2021-01-01,MI,FT,Data Engineer,HK,50.0,GB,S,
+2022-01-01,SE,FT,Data Scientist,US,100.0,US,M,
+2022-01-01,SE,FT,Data Architect,US,100.0,US,M,
+2022-01-01,MI,FT,Data Scientist,BR,100.0,BR,M,
+2021-01-01,MI,FT,Data Scientist,BR,0.0,BR,S,
+2022-01-01,SE,FT,Data Engineer,US,0.0,US,L,
+2022-01-01,SE,FT,Analytics Engineer,US,0.0,US,M,
+2022-01-01,SE,FT,Data Architect,US,100.0,US,M,
+2022-01-01,SE,FT,Data Scientist,ES,0.0,ES,M,
+2022-01-01,SE,FT,Analytics Engineer,US,0.0,US,M,
+2022-01-01,SE,FT,Data Architect,US,0.0,US,M,
+2022-01-01,MI,FT,Data Scientist,US,0.0,US,M,
+2022-01-01,EN,FT,Data Specialist,CL,100.0,US,L,
+2022-01-01,SE,FT,Machine Learning Engineer,NL,100.0,NL,L,
+2021-01-01,MI,FT,Big Data Engineer,MD,0.0,MD,S,
+2021-01-01,EX,FT,Head of Data,RU,50.0,RU,L,
+2021-01-01,MI,FT,Data Engineer,US,100.0,US,L,
+2022-01-01,SE,FT,Data Engineer,US,100.0,US,M,
+2022-01-01,SE,FT,Data Scientist,US,100.0,US,M,
+2022-01-01,SE,FT,Analytics Engineer,US,0.0,US,M,
+2022-01-01,SE,FT,Data Analyst,ES,0.0,ES,M,
+2022-01-01,EN,FT,Data Scientist,US,0.0,US,M,
+2022-01-01,SE,FT,Data Engineer,US,100.0,US,L,
+2022-01-01,,,,,,,,74313.0
+2022-01-01,,,,,,,,124270.0
+2022-01-01,,,,,,,,112900.0
+2022-01-01,,,,,,,,200000.0
+2022-01-01,,,,,,,,135000.0
+2022-01-01,,,,,,,,73701.0
+2022-01-01,,,,,,,,150075.0
+2021-01-01,,,,,,,,25532.0
+2022-01-01,,,,,,,,136994.0
+2022-01-01,,,,,,,,191475.0
+2022-01-01,,,,,,,,204100.0
+2022-01-01,,,,,,,,65804.0
+2021-01-01,,,,,,,,12000.0
+2022-01-01,,,,,,,,248700.0
+2022-01-01,,,,,,,,205000.0
+2022-01-01,,,,,,,,191475.0
+2022-01-01,,,,,,,,130000.0
+2022-01-01,,,,,,,,154000.0
+2022-01-01,,,,,,,,93000.0
+2022-01-01,,,,,,,,142200.0
+2022-01-01,,,,,,,,130000.0
+2022-01-01,,,,,,,,129300.0
+2022-01-01,,,,,,,,236900.0
+2022-01-01,,,,,,,,140000.0
+2022-01-01,,,,,,,,191475.0
+2022-01-01,,,,,,,,132320.0
+2021-01-01,,,,,,,,61896.0
+2022-01-01,,,,,,,,160000.0
+2021-01-01,,,,,,,,170000.0
+2022-01-01,,,,,,,,117000.0
+2021-01-01,,,,,,,,220000.0
+2022-01-01,,,,,,,,98200.0
+2022-01-01,,,,,,,,186000.0
+2022-01-01,,,,,,,,78000.0
+2021-01-01,,,,,,,,88654.0
+2022-01-01,,,,,,,,88100.0
+2021-01-01,,,,,,,,66265.0
+2022-01-01,,,,,,,,167875.0
+2022-01-01,,,,,,,,135000.0
+2022-01-01,,,,,,,,48000.0
+2020-01-01,,,,,,,,188000.0
+2022-01-01,,,,,,,,65278.0
+2022-01-01,,,,,,,,132320.0
+2022-01-01,,,,,,,,191475.0
+2022-01-01,,,,,,,,145300.0
+2022-01-01,,,,,,,,99100.0
+2020-01-01,,,,,,,,46759.0
+2022-01-01,,,,,,,,130000.0
+2022-01-01,,,,,,,,225000.0
+2021-01-01,,,,,,,,102839.0
+2022-01-01,,,,,,,,129300.0
+2022-01-01,,,,,,,,140000.0
+2022-01-01,,,,,,,,191475.0
+2022-01-01,,,,,,,,185000.0
+2022-01-01,,,,,,,,120000.0
+2022-01-01,,,,,,,,200000.0
+2021-01-01,,,,,,,,135000.0
+2021-01-01,,,,,,,,46809.0
+2022-01-01,,,,,,,,135000.0
+2022-01-01,,,,,,,,104890.0
+2021-01-01,,,,,,,,250000.0
+2022-01-01,,,,,,,,17959.0
+2022-01-01,,,,,,,,260000.0
+2022-01-01,,,,,,,,129300.0
+2022-01-01,,,,,,,,49542.0
+2022-01-01,,,,,,,,83000.0
+2020-01-01,,,,,,,,118000.0
+2021-01-01,,,,,,,,19073.0
+2022-01-01,,,,,,,,20000.0
+2022-01-01,,,,,,,,85000.0
+2021-01-01,,,,,,,,53192.0
+2022-01-01,,,,,,,,156400.0
+2022-01-01,,,,,,,,150000.0
+2022-01-01,,,,,,,,135000.0
+2022-01-01,,,,,,,,25000.0
+2022-01-01,,,,,,,,141525.0
+2022-01-01,,,,,,,,92250.0
+2021-01-01,,,,,,,,15000.0
+2022-01-01,,,,,,,,180000.0
+2022-01-01,,,,,,,,61927.0
+2022-01-01,,,,,,,,120000.0
+2022-01-01,,,,,,,,172000.0
+2022-01-01,,,,,,,,203500.0
+2022-01-01,,,,,,,,179400.0
+2022-01-01,,,,,,,,206000.0
+2022-01-01,,,,,,,,212800.0
+2022-01-01,,,,,,,,175000.0
+2022-01-01,,,,,,,,130500.0
+2022-01-01,,,,,,,,136600.0
+2022-01-01,,,,,,,,6413.0
+2021-01-01,,,,,,,,12171.0
+2022-01-01,,,,,,,,50000.0
+2022-01-01,,,,,,,,50000.0
+2022-01-01,,,,,,,,158200.0
+2022-01-01,,,,,,,,180000.0
+2021-01-01,,,,,,,,235000.0
+2022-01-01,,,,,,,,77382.0
+2021-01-01,,,,,,,,90734.0
+2022-01-01,,,,,,,,146000.0
+2022-01-01,,,,,,,,141525.0
+2022-01-01,,,,,,,,111469.0
+2020-01-01,,,,,,,,56000.0
+2022-01-01,,,,,,,,210000.0
+2022-01-01,,,,,,,,241000.0
+2022-01-01,,,,,,,,191200.0
+2022-01-01,,,,,,,,128000.0
+2022-01-01,,,,,,,,210000.0
+2022-01-01,,,,,,,,126500.0
+2022-01-01,,,,,,,,150000.0
+2021-01-01,,,,,,,,185000.0
+2021-01-01,,,,,,,,56738.0
+2022-01-01,,,,,,,,250000.0
+2022-01-01,,,,,,,,73701.0
+2022-01-01,,,,,,,,154000.0
+2022-01-01,,,,,,,,113000.0
+2021-01-01,,,,,,,,153667.0
+2021-01-01,,,,,,,,36259.0
+2022-01-01,,,,,,,,100000.0
+2022-01-01,,,,,,,,200000.0
+2021-01-01,,,,,,,,147000.0
+2022-01-01,,,,,,,,81666.0
+2022-01-01,,,,,,,,190000.0
+2021-01-01,,,,,,,,174000.0
+2022-01-01,,,,,,,,173397.0
+2022-01-01,,,,,,,,89200.0
+2022-01-01,,,,,,,,90000.0
+2022-01-01,,,,,,,,130000.0
+2022-01-01,,,,,,,,55591.0
+2021-01-01,,,,,,,,235000.0
+2022-01-01,,,,,,,,198440.0
+2022-01-01,,,,,,,,236000.0
+2022-01-01,,,,,,,,81666.0
+2022-01-01,,,,,,,,85000.0
+2021-01-01,,,,,,,,103160.0
+2022-01-01,,,,,,,,185900.0
+2022-01-01,,,,,,,,95000.0
+2022-01-01,,,,,,,,144000.0
+2022-01-01,,,,,,,,99000.0
+2022-01-01,,,,,,,,115500.0
+2021-01-01,,,,,,,,5679.0
+2022-01-01,,,,,,,,66000.0
+2022-01-01,,,,,,,,82000.0
+2022-01-01,,,,,,,,144100.0
+2022-01-01,,,,,,,,17959.0
+2022-01-01,,,,,,,,205000.0
+2022-01-01,,,,,,,,69643.0
+2022-01-01,,,,,,,,110000.0
+2021-01-01,,,,,,,,153000.0
+2022-01-01,,,,,,,,100800.0
+2022-01-01,,,,,,,,63000.0
+2022-01-01,,,,,,,,119000.0
+2021-01-01,,,,,,,,50000.0
+2022-01-01,,,,,,,,180000.0
+2022-01-01,,,,,,,,80000.0
+2022-01-01,,,,,,,,200000.0
+2022-01-01,,,,,,,,175000.0
+2021-01-01,,,,,,,,200000.0
+2021-01-01,,,,,,,,185000.0
+2022-01-01,,,,,,,,215300.0
+2022-01-01,,,,,,,,100000.0
+2022-01-01,,,,,,,,105000.0
+2021-01-01,,,,,,,,165000.0
+2022-01-01,,,,,,,,210000.0
+2022-01-01,,,,,,,,130000.0
+2022-01-01,,,,,,,,105700.0
+2021-01-01,,,,,,,,80000.0
+2022-01-01,,,,,,,,50000.0
+2022-01-01,,,,,,,,21057.0
+2022-01-01,,,,,,,,150000.0
+2022-01-01,,,,,,,,54000.0
+2022-01-01,,,,,,,,132000.0
+2021-01-01,,,,,,,,120000.0
+2022-01-01,,,,,,,,218000.0
+2021-01-01,,,,,,,,18907.0
+2022-01-01,,,,,,,,141525.0
+2022-01-01,,,,,,,,84229.0
+2022-01-01,,,,,,,,155825.0
+2022-01-01,,,,,,,,225000.0
+2022-01-01,,,,,,,,140000.0
+2022-01-01,,,,,,,,150000.0
+2022-01-01,,,,,,,,120000.0
+2022-01-01,,,,,,,,153000.0
+2022-01-01,,,,,,,,200000.0
+2022-01-01,,,,,,,,90320.0
+2021-01-01,,,,,,,,76833.0
+2020-01-01,,,,,,,,105000.0
+2021-01-01,,,,,,,,110000.0
+2021-01-01,,,,,,,,95746.0
+2022-01-01,,,,,,,,160000.0
+2022-01-01,,,,,,,,110925.0
+2022-01-01,,,,,,,,92891.0
+2021-01-01,,,,,,,,170000.0
+2022-01-01,,,,,,,,180000.0
+2022-01-01,,,,,,,,164000.0
+2022-01-01,,,,,,,,119300.0
+2022-01-01,,,,,,,,250000.0
+2022-01-01,,,,,,,,128000.0
+2022-01-01,,,,,,,,99450.0
+2022-01-01,,,,,,,,68096.0
+2022-01-01,,,,,,,,93700.0
+2022-01-01,,,,,,,,180000.0
+2022-01-01,,,,,,,,144854.0
+2022-01-01,,,,,,,,135000.0
+2022-01-01,,,,,,,,144000.0
+2022-01-01,,,,,,,,185900.0
+2021-01-01,,,,,,,,152000.0
+2022-01-01,,,,,,,,189500.0
+2021-01-01,,,,,,,,50000.0
+2022-01-01,,,,,,,,210000.0
+2022-01-01,,,,,,,,78000.0
+2022-01-01,,,,,,,,140000.0
+2022-01-01,,,,,,,,100000.0
+2022-01-01,,,,,,,,141300.0
+2022-01-01,,,,,,,,154545.0
+2020-01-01,,,,,,,,50180.0
+2022-01-01,,,,,,,,92000.0
+2022-01-01,,,,,,,,50537.0
+2022-01-01,,,,,,,,185900.0
+2022-01-01,,,,,,,,200000.0
+2022-01-01,,,,,,,,123000.0
+2022-01-01,,,,,,,,60000.0
+2022-01-01,,,,,,,,180000.0
+2021-01-01,,,,,,,,60757.0
+2022-01-01,,,,,,,,106260.0
+2022-01-01,,,,,,,,200000.0
+2022-01-01,,,,,,,,198440.0
+2021-01-01,,,,,,,,12000.0
+2022-01-01,,,,,,,,90700.0
+2022-01-01,,,,,,,,110500.0
+2022-01-01,,,,,,,,73701.0
+2022-01-01,,,,,,,,184100.0
+2022-01-01,,,,,,,,97000.0
+2022-01-01,,,,,,,,128875.0
+2021-01-01,,,,,,,,200000.0
+2022-01-01,,,,,,,,55000.0
+2022-01-01,,,,,,,,180000.0
+2022-01-01,,,,,,,,96209.0
+2022-01-01,,,,,,,,178800.0
+2022-01-01,,,,,,,,160080.0
+2022-01-01,,,,,,,,191475.0
+2022-01-01,,,,,,,,220000.0
+2022-01-01,,,,,,,,95000.0
+2022-01-01,,,,,,,,110000.0
+2022-01-01,,,,,,,,63000.0
+2022-01-01,,,,,,,,129000.0
+2022-01-01,,,,,,,,48000.0
+2021-01-01,,,,,,,,96282.0
+2022-01-01,,,,,,,,145000.0
+2022-01-01,,,,,,,,161000.0
+2022-01-01,,,,,,,,80505.0
+2021-01-01,,,,,,,,105000.0
+2021-01-01,,,,,,,,150000.0
+2021-01-01,,,,,,,,150000.0
+2022-01-01,,,,,,,,165400.0
+2022-01-01,,,,,,,,191475.0
+2022-01-01,,,,,,,,76000.0
+2021-01-01,,,,,,,,174000.0
+2022-01-01,,,,,,,,62000.0
+2022-01-01,,,,,,,,108800.0
+2022-01-01,,,,,,,,129300.0
+2020-01-01,,,,,,,,70000.0
+2022-01-01,,,,,,,,63000.0
+2022-01-01,,,,,,,,35298.0
+2022-01-01,,,,,,,,155000.0
+2022-01-01,,,,,,,,136000.0
+2022-01-01,,,,,,,,191475.0
+2022-01-01,,,,,,,,90320.0
+2022-01-01,,,,,,,,191475.0
+2022-01-01,,,,,,,,55734.0
+2021-01-01,,,,,,,,165000.0
+2022-01-01,,,,,,,,10000.0
+2020-01-01,,,,,,,,51321.0
+2020-01-01,,,,,,,,112872.0
+2022-01-01,,,,,,,,105000.0
+2022-01-01,,,,,,,,230000.0
+2022-01-01,,,,,,,,116150.0
+2022-01-01,,,,,,,,177000.0
+2022-01-01,,,,,,,,135000.0
+2022-01-01,,,,,,,,61927.0
+2022-01-01,,,,,,,,49542.0
+2020-01-01,,,,,,,,91000.0
+2022-01-01,,,,,,,,130000.0
+2022-01-01,,,,,,,,135000.0
+2021-01-01,,,,,,,,20000.0
+2022-01-01,,,,,,,,191475.0
+2022-01-01,,,,,,,,129300.0
+2020-01-01,,,,,,,,103000.0
+2022-01-01,,,,,,,,99084.0
+2022-01-01,,,,,,,,221300.0
+2022-01-01,,,,,,,,122000.0
+2022-01-01,,,,,,,,185900.0
+2021-01-01,,,,,,,,109000.0
+2022-01-01,,,,,,,,90320.0
+2021-01-01,,,,,,,,63831.0
+2022-01-01,,,,,,,,81666.0
+2021-01-01,,,,,,,,24823.0
+2022-01-01,,,,,,,,150000.0
+2022-01-01,,,,,,,,74313.0
+2022-01-01,,,,,,,,122500.0
+2022-01-01,,,,,,,,175000.0
+2022-01-01,,,,,,,,148700.0
+2022-01-01,,,,,,,,85000.0
+2021-01-01,,,,,,,,110037.0
+2022-01-01,,,,,,,,85000.0
+2022-01-01,,,,,,,,66000.0
+2022-01-01,,,,,,,,160000.0
+2020-01-01,,,,,,,,22809.0
+2022-01-01,,,,,,,,69489.0
+2022-01-01,,,,,,,,170000.0
+2022-01-01,,,,,,,,160000.0
+2022-01-01,,,,,,,,141525.0
+2022-01-01,,,,,,,,140250.0
+2022-01-01,,,,,,,,140400.0
+2021-01-01,,,,,,,,20000.0
+2022-01-01,,,,,,,,200000.0
+2022-01-01,,,,,,,,84229.0
+2022-01-01,,,,,,,,150000.0
+2020-01-01,,,,,,,,10000.0
+2020-01-01,,,,,,,,20000.0
+2022-01-01,,,,,,,,150000.0
+2021-01-01,,,,,,,,60000.0
+2021-01-01,,,,,,,,120000.0
+2022-01-01,,,,,,,,120160.0
+2021-01-01,,,,,,,,80000.0
+2022-01-01,,,,,,,,175000.0
+2022-01-01,,,,,,,,3078.0
+2022-01-01,,,,,,,,115000.0
+2021-01-01,,,,,,,,88654.0
+2022-01-01,,,,,,,,200000.0
+2021-01-01,,,,,,,,140000.0
+2022-01-01,,,,,,,,30787.0
+2022-01-01,,,,,,,,80000.0
+2022-01-01,,,,,,,,180000.0
+2021-01-01,,,,,,,,250000.0
+2022-01-01,,,,,,,,100000.0
+2022-01-01,,,,,,,,173000.0
+2022-01-01,,,,,,,,101570.0
+2022-01-01,,,,,,,,47379.0
+2022-01-01,,,,,,,,112000.0
+2022-01-01,,,,,,,,36850.0
+2022-01-01,,,,,,,,100000.0
+2022-01-01,,,,,,,,85000.0
+2022-01-01,,,,,,,,115000.0
+2022-01-01,,,,,,,,222640.0
+2022-01-01,,,,,,,,229998.0
+2021-01-01,,,,,,,,90000.0
+2022-01-01,,,,,,,,115360.0
+2022-01-01,,,,,,,,36850.0
+2022-01-01,,,,,,,,120000.0
+2022-01-01,,,,,,,,180000.0
+2022-01-01,,,,,,,,78000.0
+2022-01-01,,,,,,,,8000.0
+2022-01-01,,,,,,,,141525.0
+2022-01-01,,,,,,,,42114.0
+2022-01-01,,,,,,,,31586.0
+2022-01-01,,,,,,,,193900.0
+2021-01-01,,,,,,,,225000.0
+2021-01-01,,,,,,,,82528.0
+2020-01-01,,,,,,,,109024.0
+2022-01-01,,,,,,,,250000.0
+2021-01-01,,,,,,,,16228.0
+2022-01-01,,,,,,,,93700.0
+2022-01-01,,,,,,,,70500.0
+2021-01-01,,,,,,,,24823.0
+2021-01-01,,,,,,,,141846.0
+2022-01-01,,,,,,,,135000.0
+2022-01-01,,,,,,,,110000.0
+2022-01-01,,,,,,,,110000.0
+2021-01-01,,,,,,,,61467.0
+2021-01-01,,,,,,,,150000.0
+2022-01-01,,,,,,,,250000.0
+2020-01-01,,,,,,,,148261.0
+2021-01-01,,,,,,,,77684.0
+2022-01-01,,,,,,,,141300.0
+2022-01-01,,,,,,,,60000.0
+2022-01-01,,,,,,,,191475.0
+2022-01-01,,,,,,,,126500.0
+2021-01-01,,,,,,,,66022.0
+2022-01-01,,,,,,,,191475.0
+2022-01-01,,,,,,,,213120.0
+2022-01-01,,,,,,,,84000.0
+2021-01-01,,,,,,,,12901.0
+2022-01-01,,,,,,,,160000.0
+2022-01-01,,,,,,,,180000.0
+2022-01-01,,,,,,,,190000.0
+2022-01-01,,,,,,,,47379.0
+2022-01-01,,,,,,,,250000.0
+2022-01-01,,,,,,,,141300.0
+2022-01-01,,,,,,,,90000.0
+2022-01-01,,,,,,,,105000.0
+2022-01-01,,,,,,,,60013.0
+2021-01-01,,,,,,,,18000.0
+2021-01-01,,,,,,,,230000.0
+2021-01-01,,,,,,,,200000.0
+2022-01-01,,,,,,,,210000.0
+2022-01-01,,,,,,,,170000.0
+2022-01-01,,,,,,,,152000.0
+2022-01-01,,,,,,,,50537.0
+2022-01-01,,,,,,,,73000.0
+2022-01-01,,,,,,,,178800.0
