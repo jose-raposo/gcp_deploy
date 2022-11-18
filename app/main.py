@@ -11,7 +11,7 @@ import joblib
 from flask import Flask, request
 
 # carregando o pipeline de regressao
-model = joblib.load('model/model.pkl')
+model = joblib.load('model.pkl')
 
 # criando o objeto Flask App
 app = Flask(__name__)
